@@ -1,4 +1,6 @@
 # Python-Projects
+#You will find codes for Model Creation, Data Manipulation, Boxplots, Scaling, Label Encoding, RFE and Ensembling in these files
+
 #Project Name: Credit Risk Approval
 #Project Details:
 •	Build Classification model to manage credit risk by using the past data and deciding whom to give the loan to in the future.
