@@ -1,5 +1,5 @@
 # Python-Projects
-#You will find codes for Model Creation, Data Manipulation, Boxplots, Scaling, Label Encoding, RFE and Ensembling in these files
+#You will find codes for Model Creation, Data Manipulation, Boxplots, Scaling, Label Encoding, RFE, ROC Curve plotting and Ensembling in these files
 
 #Project Name: Credit Risk Approval
 #Project Details:
